@@ -18,7 +18,3 @@ The `ActivityBox` component in this React Native snippet organizes and displays 
 ### OngoingTasks
 
 The `OngoingTasks` component presents a list of ongoing tasks in a vertical layout. Each task is displayed within a styled container, showcasing the task name. The list is generated dynamically using the `map` function to iterate over the `tasks` array, rendering each task item. Styled elements contribute to a visually appealing presentation, enhancing the readability and organization of ongoing tasks within the application.
-
-## Screenshot
-
-![Application screenshot](result.jpg)
